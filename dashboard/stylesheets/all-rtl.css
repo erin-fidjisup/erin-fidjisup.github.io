@@ -6064,7 +6064,7 @@ blockquote p {
   /* line 396, /app/bower_components/foundation/scss/foundation/components/_type.scss */
   * {
     background: transparent !important;
-    color: #000 !important;
+    color: #060606 !important;
     /* Black prints faster: h5bp.com/s */
     box-shadow: none !important;
     text-shadow: none !important; }
@@ -7419,7 +7419,7 @@ th.hide-for-touch {
   /* line 52, /app/source-xampp-windows/stylesheets/asciidoctor.css */
   .asciidoctor mark {
     background: #ff0;
-    color: #000; }
+    color: #060606; }
   /* line 55, /app/source-xampp-windows/stylesheets/asciidoctor.css */
   .asciidoctor code, .asciidoctor kbd, .asciidoctor pre, .asciidoctor samp {
     font-family: monospace, serif;
@@ -8735,10 +8735,10 @@ th.hide-for-touch {
     background-color: black; }
   /* line 601, /app/source-xampp-windows/stylesheets/asciidoctor.css */
   .asciidoctor .blue {
-    color: #0000bf; }
+    color: #0606060bf; }
   /* line 603, /app/source-xampp-windows/stylesheets/asciidoctor.css */
   .asciidoctor .blue-background {
-    background-color: #0000fa; }
+    background-color: #0606060fa; }
   /* line 605, /app/source-xampp-windows/stylesheets/asciidoctor.css */
   .asciidoctor .fuchsia {
     color: #bf00bf; }
@@ -8771,10 +8771,10 @@ th.hide-for-touch {
     background-color: #7d0000; }
   /* line 625, /app/source-xampp-windows/stylesheets/asciidoctor.css */
   .asciidoctor .navy {
-    color: #000060; }
+    color: #060606060; }
   /* line 627, /app/source-xampp-windows/stylesheets/asciidoctor.css */
   .asciidoctor .navy-background {
-    background-color: #00007d; }
+    background-color: #06060607d; }
   /* line 629, /app/source-xampp-windows/stylesheets/asciidoctor.css */
   .asciidoctor .olive {
     color: #606000; }
